@@ -102,20 +102,20 @@ const TeamMembersData = [
     name: 'M. Ahmad',
     designation: 'FS Developer',
   }, {
-    imgUrl: '/assests/mubarrim.png',
-    altText: 'mubarrim iqbal',
-    name: 'Mr. Mubarrim',
+    imgUrl: '/assests/uzair_arif.jpg',
+    altText: 'uzair arif',
+    name: 'Mr. Uzair',
     designation: 'FS Developer',
   }, {
-    imgUrl: '/assests/badi_bhai.png',
-    altText: 'badi u zaman',
-    name: 'Mr. Badi',
-    designation: 'AWS Engineer',
+    imgUrl: '/assests/hussain.jpg',
+    altText: 'hussain shaheen',
+    name: 'Mr. Hussain',
+    designation: 'System Admin',
   }, {
-    imgUrl: '/assests/maaz.png',
-    altText: 'maaz',
-    name: 'M. Maaz',
-    designation: 'Web Designer',
+    imgUrl: '/assests/kashif.jpg',
+    altText: 'kashif',
+    name: 'Mr. Kashif',
+    designation: 'FS Developer',
   },
 ]
 const OurTeam = () => {
